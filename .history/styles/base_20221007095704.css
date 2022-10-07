@@ -38,9 +38,6 @@ main {
 article {
     border: solid 1px #247e9d;
     text-align: center;
-    display: grid;
-    justify-content: center; 
-    align-items: center;
 }
 
 footer {
