@@ -19,17 +19,14 @@ header, aside, footer {
 header {
     background-color: #3ab397;
     font-size: 3rem;
-    grid-area: header;
 }
 
 aside {
     background-color: #95d5cf;
-    grid-area: aside;
 }
 
 main {
     margin: 1em 0;
-    grid-area: main;
 }
 
 article {
@@ -39,10 +36,7 @@ article {
 
 footer {
     background-color: #247e9d;
-    grid-area: footer;
 }
-
-
 
 
 
