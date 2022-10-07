@@ -42,14 +42,7 @@ footer {
     grid-area: footer;
 }
 
-.container {
-    display: grid;
-    grid-template-areas:
-        "header"
-        "main"
-        "aside"
-        "footer"
-}
+
 
 
 
